@@ -415,15 +415,15 @@ def main():
             # 6 Key metrics in professional layout
             col1, col2, col3, col4, col5, col6 = st.columns(6)
             with col1: 
-                st.metric("📊 Mean", f"₹{filtered_df[numeric_col].mean():,.0f}")
+                st.metric("📊 Mean", f"{filtered_df[numeric_col].mean():,.0f}")
             with col2: 
-                st.metric("🎯 Median", f"₹{filtered_df[numeric_col].median():,.0f}")
+                st.metric("🎯 Median", f"{filtered_df[numeric_col].median():,.0f}")
             with col3: 
-                st.metric("📈 Max", f"₹{filtered_df[numeric_col].max():,.0f}")
+                st.metric("📈 Max", f"{filtered_df[numeric_col].max():,.0f}")
             with col4: 
-                st.metric("📉 Min", f"₹{filtered_df[numeric_col].min():,.0f}")
+                st.metric("📉 Min", f"{filtered_df[numeric_col].min():,.0f}")
             with col5: 
-                st.metric("σ Std Dev", f"₹{filtered_df[numeric_col].std():,.0f}")
+                st.metric("σ Std Dev", f"{filtered_df[numeric_col].std():,.0f}")
             with col6: 
                 st.metric("🔢 Count", len(filtered_df))
             
