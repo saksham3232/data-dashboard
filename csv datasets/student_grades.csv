@@ -1,0 +1,11 @@
+StudentID,Name,Age,Gender,Math,Science,English,History,Total,Grade,Attendance
+S001,Rahul,20,Male,85,78,92,88,343,A,95
+S002,Priya,19,Female,78,85,80,76,319,B,88
+S003,Amit,21,Male,92,90,85,94,361,A,98
+S004,Neha,20,Female,88,82,95,89,354,A,92
+S005,Vikram,22,Male,65,70,68,72,275,C,75
+S006,Sana,19,Female,90,88,92,91,361,A,96
+S007,Arjun,21,Male,72,75,70,68,285,C,80
+S008,Anita,20,Female,95,92,94,96,377,A,99
+S009,Rakesh,22,Male,60,65,58,62,245,D,70
+S010,Simran,19,Female,82,80,85,84,331,B,90

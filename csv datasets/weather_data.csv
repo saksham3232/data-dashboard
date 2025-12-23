@@ -1,0 +1,11 @@
+Date,Temperature,Rainfall,Humidity,WindSpeed,CloudCover,City
+2025-01-01,24.5,0.0,65,12.5,Clear,Mumbai
+2025-01-02,26.2,5.1,72,15.2,PartlyCloudy,Bangalore
+2025-01-03,22.8,0.0,58,10.8,Sunny,Delhi
+2025-01-04,28.1,12.3,78,18.5,Rainy,Chennai
+2025-01-05,25.6,2.4,68,14.2,Cloudy,Pune
+2025-01-06,23.9,0.0,60,11.3,Sunny,Hyderabad
+2025-01-07,27.4,8.7,75,16.0,Rainy,Kolkata
+2025-01-08,24.1,0.0,62,13.1,Clear,Ahmedabad
+2025-01-09,29.0,15.0,80,19.4,Rainy,Surat
+2025-01-10,26.5,3.2,70,15.5,PartlyCloudy,Nagpur

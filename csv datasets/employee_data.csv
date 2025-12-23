@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,Department,Salary,Experience,Bonus,PerformanceScore,City
+E001,Alice,28,IT,75000,3,5000,4.2,Mumbai
+E002,Bob,32,HR,68000,5,3000,3.8,Bangalore
+E003,Charlie,25,Sales,55000,2,4500,4.5,Delhi
+E004,Diana,35,Finance,95000,8,8000,4.8,Pune
+E005,Eve,29,IT,72000,4,4200,4.0,Hyderabad
+E006,Frank,42,Marketing,88000,10,6500,4.3,Chennai
+E007,Grace,31,Sales,60000,6,4000,3.9,Kolkata
+E008,Heidi,27,HR,67000,3,3500,4.1,Mumbai
+E009,Ivan,38,Finance,99000,9,9000,4.7,Bangalore
+E010,Judy,30,IT,73000,5,4800,4.4,Delhi

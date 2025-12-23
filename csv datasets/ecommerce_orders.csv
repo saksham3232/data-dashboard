@@ -1,0 +1,11 @@
+OrderID,Product,Category,CustomerAge,CustomerCity,OrderAmount,Quantity,ShippingCost,OrderDate,Status
+ORD001,iPhone,Electronics,28,Mumbai,59999,1,250,2025-01-10,Delivered
+ORD002,Laptop,Electronics,35,Bangalore,78999,1,350,2025-01-11,Shipped
+ORD003,T-Shirt,Apparel,24,Delhi,899,2,50,2025-01-12,Delivered
+ORD004,Jeans,Apparel,31,Pune,2499,1,75,2025-01-13,Shipped
+ORD005,Headphones,Electronics,27,Hyderabad,2999,1,80,2025-01-14,Cancelled
+ORD006,Smartwatch,Electronics,30,Chennai,19999,1,150,2025-01-15,Delivered
+ORD007,Sneakers,Footwear,22,Mumbai,3499,1,60,2025-01-16,Delivered
+ORD008,Backpack,Accessories,29,Bangalore,1599,1,40,2025-01-17,Shipped
+ORD009,Tablet,Electronics,33,Delhi,24999,1,200,2025-01-18,Delivered
+ORD010,Jacket,Apparel,26,Pune,3999,1,90,2025-01-19,Cancelled
